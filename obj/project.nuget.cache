@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XZGw18V8QpxEYBjjZ/bKKtiOKurT6dJvAaUcOg399Rba9nJAwiLCAXkcSxN2mRAfZLctPxsQ68wHeVBHHg6WUQ==",
+  "success": true,
+  "projectFilePath": "C:\\AlunoGestao\\AlunosGestao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marlon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
